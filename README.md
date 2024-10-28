@@ -1,6 +1,7 @@
 # Cryptocurrency Market Analytics and Forecasting using Microsoft Power BI
 
-![Dashboard Preview](img.jpg)
+##                     Dashboard Preview :
+![Dashboard Preview](https://github.com/Pratikkage/Cryptocurrency-market-analytics-and-forecasting-using-Microsoft-Power-BI/blob/main/Images/abc.jpg)
 
 ## 📋 Overview
 
