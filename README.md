@@ -20,9 +20,7 @@ This project delves into the historical cryptocurrency market data to uncover me
 - **Microsoft Power BI**: Visualization and dashboard creation for interactive data exploration.
 - **Microsoft PowerPoint**: Presentation of findings and insights for stakeholders.
 
-## 🚀 Getting Started
 
-### Prerequisites
 
 ## Forecasting preview : 
 ![Dashboard Preview](https://github.com/Pratikkage/Cryptocurrency-market-analytics-and-forecasting-using-Microsoft-Power-BI/blob/main/Images/Screenshot%202024-10-28%20104535.jpg)
